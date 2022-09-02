@@ -1,27 +1,27 @@
-## First Name Last Name
+## Joshua Cole
 
-### Term Year 
+### 2022-2026
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalculus Algebra/Trigonometry
 
-- Course 2
+- Introduction to Computation and Programming	
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Making Music
 
-- Thing 2
+- Drawing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Mechanical engineering
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/02
